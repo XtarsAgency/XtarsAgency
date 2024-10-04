@@ -2,10 +2,11 @@ Hi there.
 
 -JSON/HJSON Wielder
 
--Sprites/GameArt Artist
+-Sprite Drawer (terrible)
 
 -Gamer 
 
--Addicted to vitamin C and D
+-Indonesian, Balinese.
+
 
 Ever coding since 12 Years old and an indonesian guy brought to life at 2011
